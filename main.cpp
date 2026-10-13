@@ -4,7 +4,7 @@ int main()
 {
   for(int i = 0;;i++)
   {
-    std::cout << "gkanton ", i;
+    std::cout << "gkanton\n", i;
     std::this_thread::sleep_for(std::chrono::seconds(1));
   }
 }
