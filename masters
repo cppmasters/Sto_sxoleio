@@ -1,1 +1,19 @@
+#include <iostream>
+int main ()
+{
+  double a,b,c
+std::cout << " dose ton srithmo toy mathimatos";
+while (a <= 0)
+{
+  std::cin >> a;
 
+
+
+
+
+
+}
+
+
+
+}
