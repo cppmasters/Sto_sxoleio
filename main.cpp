@@ -9,7 +9,7 @@ int main()
     std::cout << " dose tous tous batmous sou\n";
 
     // loupa
-    while (input != -1)
+    while (input != -1)//ti paei na pei to thabmastiko
     {
         // perimenei dedomena apo thn xrhsth
         std::cout << ": ";
